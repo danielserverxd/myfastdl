@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/servergod/survivors/sus/verde/arms"
+	"$bumpmap" "models/servergod/survivors/sus/verde/arms_normal"
+}

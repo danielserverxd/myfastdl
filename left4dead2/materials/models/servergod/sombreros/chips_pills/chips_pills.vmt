@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/serverdaniel/sombreros/chips_pills/chips_pills"
+  $bumpmap "models/serverdaniel/sombreros/chips_pills/chips_pills_n"
+	"$phong"     "1"
+	$invertphongmask 1
+	//"$phongexponent"  "12"
+	"$phongboost"   "6"
+	"$phongfresnelranges"      "[.1 0.6 3]"
+	//"$phongfresnelranges"   "[1 9 3]"
+	//"$phongtint"		"[0.8 0.9 1.15]"
+	"$phongtint"         "[0.85 1 1.15]" 
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"40"
+	//"$halflambert" 		"1"
+
+	"$ambientocclusion"  "1"
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"66"	
+	"$rimlightboost"	"0.6"
+	"$rimmask" 	"1"
+}

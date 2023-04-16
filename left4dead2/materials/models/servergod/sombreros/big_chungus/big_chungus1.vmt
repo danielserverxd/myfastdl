@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/serverdaniel/sombreros/big_chungus/Big_chungus1"
+	"$nocull" "1"
+	"$halflambert" "1"
+}
+
+

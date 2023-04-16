@@ -1,0 +1,27 @@
+VertexLitGeneric
+{
+$baseTexture "models\serverdaniel\sombreros\coraje\body.vtf"
+$phong 1
+$phongexponent 150
+$phongboost 1
+$phongfresnelranges "[.7 15 20]"
+
+
+$detail "models/infected/hunter/hunter_01_detail.vtf"
+$detailscale "1.75"
+$detailblendfactor .001 
+$detailblendmode 0
+$detailAmount 0
+Proxies
+{
+BloodyHands
+{
+resultVar $detailAmount
+}
+Equals
+{
+srcVar1 $detailAmount
+resultVar $detailblendfactor
+}
+}
+}

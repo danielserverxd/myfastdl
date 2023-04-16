@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\serverdaniel\sombreros\pollo/pollitoDoll_diffuse"
+$bumpmap "models\serverdaniel\sombreros\pollo/pollitoDoll_normal"
+
+}

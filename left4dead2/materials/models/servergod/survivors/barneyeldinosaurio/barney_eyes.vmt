@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/servergod/survivors/barneyeldinosaurio/barney_eyes"
+	"$model" 1
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.1
+}

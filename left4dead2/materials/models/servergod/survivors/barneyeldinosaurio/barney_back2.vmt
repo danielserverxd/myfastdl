@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/servergod/survivors/barneyeldinosaurio/barney_back2"
+	"$model" 1
+	
+	"$detail"	"models/servergod/survivors/barneyeldinosaurio/detail"
+	"$detailscale" 2
+}

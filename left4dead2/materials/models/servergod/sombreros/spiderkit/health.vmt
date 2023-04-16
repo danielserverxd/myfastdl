@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/serverdaniel/sombreros/spiderkit/health.vtf"
+	"$surfaceprop" "plastic"
+	"$selfillum" 0
+	"$model" 1
+	"$phong" 1
+	"$phongboost" "1"
+	"$phongexponent" "40"
+	"$halflambert" "0"
+	"$phongfresnelranges"	"[0.5 0.5 1]"
+}

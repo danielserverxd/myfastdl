@@ -1,0 +1,9 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$baseTexture" "models/serverdaniel/sombreros/clefairy/Body1_0.vtf"
+}
+}

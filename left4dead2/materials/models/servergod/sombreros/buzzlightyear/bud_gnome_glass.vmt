@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+$baseTexture "models/serverdaniel/sombreros/buzzlightyear\bud_gnome_glass"
+$bumpmap "dev\flat_normal"
+$halflambert 0
+$diffuseexp 1
+$phong 1
+$surfaceprop glass
+$phongfresnelrange_0 ".2"
+$phongfresnelrange_1 ".5"
+$phongfresnelrange_2 5
+$phongfresnelranges "[.2 .5 5]"
+$phongtint "[1 1 1]"
+$phongboost 4
+$phongexponent 50
+$ambientocclusion 1
+$seamless_detail 1
+$seamless_scale ".005"
+$translucent 1
+$bbqamount 1
+
+}

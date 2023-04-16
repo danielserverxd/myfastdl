@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\servergod\sombreros\santahat\santahat"
+	"$model" 1
+	"$envmapmode" 1
+}

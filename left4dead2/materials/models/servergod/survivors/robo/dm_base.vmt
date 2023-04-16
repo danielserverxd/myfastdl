@@ -1,0 +1,7 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$basetexture" "models/servergod/survivors/robo/DM_Base"
+}

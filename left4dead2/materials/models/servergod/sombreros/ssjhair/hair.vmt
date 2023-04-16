@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serverdaniel/sombreros/ssjhair/hair"
+	"$alphatest" 1
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "0.2"
+	"$lightwarptexture" "models/serverdaniel/sombreros/ssjhair/hair_lightwarp"
+	"$phongfresnelranges"	"[.25 1 4]"
+
+}
