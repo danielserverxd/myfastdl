@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/servergod/survivors/AmazingSpid/AmazingSM_d"
+	"$bumpmap" "models/servergod/survivors/AmazingSpid/AmazingSM_n"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" 20
+	"$phongboost"	".25"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+}
+

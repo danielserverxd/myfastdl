@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture"		"models\servergod\survivors\sus\rojo\Arms_Outline"
+	"$bumpmap"		"models\servergod\survivors\sus\rojo\Arms_Outline_normal"
+}
