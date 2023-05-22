@@ -1,0 +1,20 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$basetexture" "models/servergod/survivors/ghostface/T_OKTorsoArms007_BC"
+	"$bumpmap" "models/servergod/survivors/ghostface/T_OKTorsoArms007_BC_Normal"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$phong" "1"
+	"$phongtint" "[.85 .85 1]"
+	"$phongexponent" "12"
+	"$phongboost" "0.2"
+	"$halflambert" "0"
+	"$phongfresnelranges" "[.1 .5 1.0]"
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1.5"
+	"$lightwarptexture" "models/survivors/gambler/gambler_head_wrp"
+}
+}
