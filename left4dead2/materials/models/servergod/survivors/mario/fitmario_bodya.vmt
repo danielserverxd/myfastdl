@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/servergod/survivors/Mario/FitMario_BodyA"
+	"$bumpmap" "models/servergod/survivors/Mario/FitMario_BodyA_bump"
+	"$halflambert"			"1"
+	"$color2"				"[1.2 1.2 1.2]"
+	
+	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongboost"			"12.75"
+	"$phongexponenttexture"	"models/servergod/survivors/Mario/white"
+	"$phongexponent"		"8"
+	"$phongfresnelranges"	"[.1 1 8]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "9"
+	"$rimmask" "1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/servergod/survivors/Mario/FitMario_Kage"
+	"$translucent" 1
+}

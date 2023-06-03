@@ -1,0 +1,7 @@
+"Eyes"
+{
+	"$basetexture" "models/servergod/survivors/Mario/FitMario_EyeWhite_l"
+	"$iris"         "models/servergod/survivors/Mario/FitMario_EyeIris"
+	"$halflambert"	"1"
+	"$nodecal" "1"
+}
