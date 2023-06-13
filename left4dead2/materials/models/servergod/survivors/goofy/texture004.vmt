@@ -1,0 +1,19 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$basetexture" "models/servergod/survivors/goofy/texture004"
+	"$bumpmap" "models/servergod/survivors/goofy/texture004_normal"
+ 	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"
+	"$phongfresnelranges" "[.3 1 8]"
+	"$halflambert" "0"
+	"$nodecal" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "2"
+	"$nocull" "1"
+}
+}
