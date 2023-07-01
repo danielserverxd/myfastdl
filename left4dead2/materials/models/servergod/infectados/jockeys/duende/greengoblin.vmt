@@ -1,7 +1,7 @@
 vertexlitgeneric
 {
 $baseTexture "models\servergod\infectados\jockeys\duende\greengoblin"
-$bumpmap "models\servergodl\infectados\jockeys\duende\greengoblin_n"
+$bumpmap "models\servergod\infectados\jockeys\duende\greengoblin_n"
 $phong 1
 $phongboost ".1"
 $phongexponent 5
