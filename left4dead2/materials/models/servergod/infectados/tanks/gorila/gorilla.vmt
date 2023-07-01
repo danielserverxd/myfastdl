@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/servergod/infectados/tanks/gorila/gorilla"
+	"$bumpmap" "models/servergod/infectados/tanks/gorila/gorilla_normal"
+ 	"$allowdiffusemodulation" "0"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1.28"
+	$alphatest 1
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "0.65"
+}
