@@ -1,6 +1,6 @@
 UnlitGeneric
 {
-	"$basetexture" "serverdaniel/emojis/muchachos"
+	"$basetexture" "serverdaniel/emojis/como"
 	"$nocull" 1
    	"$translucent" "1"
 	"$spriteorientation" "oriented"
